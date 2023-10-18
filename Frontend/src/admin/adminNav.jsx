@@ -20,14 +20,14 @@ const logs = useSelector(logginA)
 <nav className="navbar navbar-expand-md bg-white sticky-top border-bottom" >
   <div className="container">
     <a className="navbar-brand" href="#">
-      MedHub
+      eHealthcare
     </a>
     <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="offcanvas offcanvas-end" tabIndex="-1" id="offcanvas" aria-labelledby="offcanvasLabel">
       <div className="offcanvas-header">
-        <h5 className="offcanvas-title" id="offcanvasLabel">MedHub</h5>
+        <h5 className="offcanvas-title" id="offcanvasLabel">eHealthcare</h5>
         <button type="button" className="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div className="offcanvas-body">
