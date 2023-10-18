@@ -12,7 +12,7 @@ function UserNav() {
       <nav className="navbar navbar-expand-md bg-white sticky-top border-bottom">
         <div className="container">
           <a className="navbar-brand" href="#">
-            MedHub
+            eHealthcare
           </a>
           <button
             className="navbar-toggler"
